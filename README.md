@@ -1,4 +1,4 @@
-# Unity Procedural Maze Generator
+# Unity Procedural Maze Generator (University Project)
 
 This Unity-based application dynamically generates a 3D maze and features autonomous drones navigating the maze using state machines, along with a player character for interaction.
 
